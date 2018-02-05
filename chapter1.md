@@ -1,38 +1,31 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-lang: python
-xp: 100
-skills: 2
+
+xp: 
+
+key: 9f3d5423a1
 ```
 
+dsadsa
 
 `@instructions`
+dada
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
